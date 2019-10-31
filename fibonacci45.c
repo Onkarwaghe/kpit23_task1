@@ -5,7 +5,7 @@ int main()
     printf("Enter the number of terms: ");
     scanf("%d", &n);
     printf("Fibonacci Series: ");
-    for (i = 1 i <= n ++i) //...no termination in for loop...//
+    for (i = 1; i <= n; ++i) 
     {
         printf("%d, ", t1);
         nextTerm = t1 + t2;
