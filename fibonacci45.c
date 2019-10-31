@@ -1,4 +1,4 @@
-//...error-no library file added...//
+#inclde<stdio.h>
 int main()
 {
     int i, n, t1 = 0, t2 = 1, nextTerm;
